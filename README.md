@@ -16,7 +16,7 @@ cd inputs
 
 Create any number of `json`files, their file names will be the output file names.
 
-inputs/certificate-foo.json
+inputs/foo-file-name.json
 ```json
 {
   "commonName": "foo-entra-app",
@@ -26,7 +26,7 @@ inputs/certificate-foo.json
 }
 ```
 
-inputs/certificate-bar.json
+inputs/bar-file-name.json
 ```json
 {
   "commonName": "bar-entra-app",
